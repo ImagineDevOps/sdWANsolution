@@ -1,9 +1,9 @@
 
-# vtrunkd - universal network link bonding and multichannel VPN.
+Imagine SD-WAN - universal network link bonding and multichannel VPN.
 
 
 
-Vtrunkd is a Linux VPN daemon used to combine several connection paths 
+SD-WAN a Linux VPN daemon used to combine several connection paths 
 into one aggregated channel. Features latency, reordering and jitter 
 management, behaviour analysis optimizations for encapsulated protocols, 
 bufferbloat control, packet redundancy, and multiple cpu cores utilization. 
