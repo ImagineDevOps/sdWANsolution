@@ -21,8 +21,7 @@ Required packages:
   - GNU libtool (libtool)
   - Lexical Analyzer (flex, lex)
   - YACC (yacc, bison, byacc)
-  - Universal TUN/TAP driver 	http://vtun.sourceforge.net/tun
-  
+
 On ubuntu, run: 
 
     $ sudo apt-get install build-essential flex bison
@@ -31,10 +30,6 @@ On ubuntu, run:
     $ sudo make install
 ----
 
-vtrunkd and vtrunkd algorithm (C) Andrew Gryaznov
 
-Based on Vtun (C) 1998-2004 Maxim Krasnyansky
 
-This product includes software developed by the OpenSSL Project
-for use in the OpenSSL Toolkit. (http://www.openssl.org/).
 
